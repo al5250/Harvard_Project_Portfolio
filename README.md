@@ -38,7 +38,7 @@ A collection of projects and papers I completed for various courses while pursui
 
 1. **Analyzing the Roman tendency to selectively enfranchise citizens demonstrating imperial loyalty, and how this policy deterred internal strife and allowed for financial stability within the empire.** (Fall 2016)  
 *Course Title*: The World of the Roman Empire (HIST 1011)    
-*Paper Title*: An Age-Old Aegean Affair: Considering Correct Causes of Collapse
+*Paper Title*: Exclusivity and Why It Worked
 
 2. **Examining the Late Bronze Age collapse of the Mycenaean civilization, which was a complex phenomenon resulting from the combination of several factors, including the critical overexpansion of economic activity.** (Fall 2015)  
 *Course Title*: The End of the World As We Know It? (EXPOS 20)  
