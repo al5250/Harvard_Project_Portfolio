@@ -36,7 +36,7 @@ A collection of projects and papers I completed for various courses while pursui
 
 ## Humanities 
 
-1. **Analyzing the Roman tendency to selectively enfranchise citizens who demonstrate imperial loyalty, and how this policy deterred internal strife and allowed for financial stability within the empire.** (Fall 2016)  
+1. **Analyzing the Roman tendency to selectively enfranchise citizens who demonstrated imperial loyalty, and how this policy deterred internal strife and allowed for financial stability within the empire.** (Fall 2016)  
 *Course Title*: The World of the Roman Empire (HIST 1011)    
 *Paper Title*: Exclusivity and Why It Worked
 
