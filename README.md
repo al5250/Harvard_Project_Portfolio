@@ -4,7 +4,7 @@ A collection of projects and papers I completed for various courses while pursui
 
 ## Math and Sciences
 
-1. **Evaluating and comparing the relative efficacies of different optimization algorithms (e.g. SDG, Adam, L-BFGS, CG) in training neural networks.** (Fall 2016, [Link](https://github.com/robertsychen/AM205_Deep_Learning_Optimizers))  
+1. **Evaluating and comparing the relative efficacies of different optimization algorithms (e.g. SGD, Adam, L-BFGS, CG) in training neural networks.** (Fall 2016, [Link](https://github.com/robertsychen/AM205_Deep_Learning_Optimizers))  
 *Course Title*: Advanced Scientific Computing: Numerical Methods (APMTH 205)   
 *Collaborator(s)*: Robert Chen '17   
 *Tools*: Python, TensorFlow
