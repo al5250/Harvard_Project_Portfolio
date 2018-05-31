@@ -1,0 +1,3 @@
+# Harvard University Project Portfolio (2015-2019)
+---
+A collection of projects and papers I completed for various courses while pursuing a [Bachelor of Arts in Computer Science](https://www.seas.harvard.edu/programs/computer-science/planning-degrees-courses) and a [Master of Science in Computational Science and Engineering](https://www.seas.harvard.edu/programs/graduate/applied-computation/master-of-science-in-cse).  Subjects span computer science, statistics, applied mathematics, psychology, history, and education.
