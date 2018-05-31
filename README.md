@@ -71,23 +71,23 @@ A collection of projects and papers I completed for various courses while pursui
 
 ## Humanities
 
-1. **Proclaiming that the so-called "impending labor apocalypse" fueled by AI-enchanced machines is grossly overstated, and affirming that humans will always find an economically viable way to stay afloat.**  
+1. **Proclaiming that the so-called "impending labor apocalypse" fueled by AI-enchanced machines is grossly overstated, and affirming that humans will always find an economically viable way to stay afloat.** (Spring 2018)  
 *Course Title*: Evolving Morality: From Primordial Soup to Superintelligent Machines (PSY 1002)  
 *Paper Title*: Humans Will Always Need to Apply  
 
-2. **Refuting the notion that scientific inquiry can play any significant role in moral arbitration due to the sheer inconsistency of our species' decision-making paradigm.**  
+2. **Refuting the notion that scientific inquiry can play any significant role in moral arbitration due to the sheer inconsistency of our species' decision-making paradigm.** (Spring 2018)  
 *Course Title*: Evolving Morality: From Primordial Soup to Superintelligent Machines (PSY 1002)  
 *Paper Title*: Science vs. Morality  
 
-3. **Proposing technology-driven community centers as a first step towards providing equal access to resources and closing the racial achievement gap in San Francisco.**  
+3. **Proposing technology-driven community centers as a first step towards providing equal access to resources and closing the racial achievement gap in San Francisco.** (Fall 2017)  
 *Course Title*: Dilemmas in Equity and Excellence in American K-12 Education (USW 35)  
 *Paper Title*: Closing the Achievement Gap  
 
-4. **Analyzing the Roman tendency to selectively enfranchise citizens who demonstrated imperial loyalty, and how this policy deterred internal strife and allowed for financial stability within the empire.**  
+4. **Analyzing the Roman tendency to selectively enfranchise citizens who demonstrated imperial loyalty, and how this policy deterred internal strife and allowed for financial stability within the empire.** (Fall 2016)  
 *Course Title*: The World of the Roman Empire (HIST 1011)  
 *Paper Title*: Exclusivity and Why It Worked  
 
-5. **Examining the Late Bronze Age collapse of the Mycenaean civilization, which was a complex phenomenon resulting from the combination of several factors, including the critical overexpansion of economic activity.**  
+5. **Examining the Late Bronze Age collapse of the Mycenaean civilization, which was a complex phenomenon resulting from the combination of several factors, including the critical overexpansion of economic activity.** (Fall 2015)  
 *Course Title*: The End of the World As We Know It? (EXPOS 20)  
 *Paper Title*: An Age-Old Aegean Affair: Considering Correct Causes of Collapse  
 

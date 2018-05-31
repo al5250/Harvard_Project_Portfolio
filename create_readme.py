@@ -51,7 +51,8 @@ with open(output_file, 'wb') as f_out:
 
     # Write project information
     f_out.write(str(idx + 1) + '. ')
-    f_out.write('**' + title.strip() + '**  \n')
+    f_out.write('**' + title.strip() + '** ')
+    f_out.write('(' + term.strip() + ' ' + str(year) + ')  \n')
 
     # Write course information
     f_out.write('*Course Title*: ' + course.strip() + ' (' + num.strip() + ')  \n')
