@@ -33,7 +33,7 @@ with open(output_file, 'wb') as f_out:
     f_out.write(')  \n')
     
     # Write course information
-    f_out.write('*Course Title*: ' + course.strip() + ' (' + num.strip() + ')\n')
+    f_out.write('*Course Title*: ' + course.strip() + ' (' + num.strip() + ')  \n')
 
     # Write collaborator information
     if collabs is not np.nan:
