@@ -4,7 +4,7 @@ A collection of projects and papers I completed for various courses while pursui
 
 ## Math and Sciences
 
-1. **An implementation of the Hartree-Fock algorithm for automaticallly calculating interesting properties of small molecules from first principles.** (Fall 2018, [Link](https://github.com/al5250/ps_10_final_project))  
+1. **An implementation of the Hartree-Fock algorithm for automatically calculating interesting properties of small molecules from first principles.** (Fall 2018, [Link](https://github.com/al5250/ps_10_final_project))  
 *Course Title*: Quantum and Statistical Foundations of Chemistry (PS 10)  
 *Acknolwedgements*: This project was mentored by [Michael Mavros](https://chemistry.harvard.edu/people/michael-mavros).  
 *Tools*: Python (NumPy, SciPy)  
