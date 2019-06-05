@@ -92,9 +92,9 @@ A collection of projects and papers I completed for various courses while pursui
 
 ## Humanities
 
-1. **An interview with two leading figures in one of Boston's Chinese family associations on lessons from the past and goals for the future.** (Spring 2019)  
+1. **An interview with two leading figures in one of Boston's Chinatown-based family associations on lessons from the past and goals for the future.** (Spring 2019)  
 *Course Title*: The Chinese Immigrant Experience in America (SOC-STD 68CT)  
-*Paper Title*: A Conversation on Boston’s Soo Yuen Benevolent Association  
+*Paper Title*: A Conversation on Boston's Soo Yuen Benevolent Association  
 
 2. **Proclaiming that the so-called "impending labor apocalypse" fueled by AI-enchanced machines is grossly overstated, and affirming that humans will always find an economically viable way to stay afloat.** (Spring 2018)  
 *Course Title*: Evolving Morality: From Primordial Soup to Superintelligent Machines (PSY 1002)  
